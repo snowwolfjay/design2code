@@ -1,4 +1,4 @@
-# 先占个坑，填不填随缘
+# 先占个坑，填不填随缘 - Alway feel new coder cant implements design as expect and always too late to find that out, why not directly realize designs (no means ui visual design) when I need to draw those graphs for documentations?
 
 # Framework Overview
 Design2Code, will aim to bridge the gap between system design and implementation. It will focus on transforming high-level design models (DFDs and ERDs and others) directly into executable code and application structures. 
