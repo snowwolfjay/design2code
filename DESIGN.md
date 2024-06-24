@@ -21,6 +21,7 @@ Model Interpreter:
 1. Backend Code Generator: Generates backend code (e.g., RESTful APIs, microservices) based on the interpreted models.
 2. Database Schema Generator: Creates database schemas and migration scripts from ERDs.
 3. Frontend Code Generator: Optionally generates frontend code based on DFDs to create forms and interfaces corresponding to the data flows.
+  > web-component base material + es6 modules, drop old browser supports
 
 # Configuration Management:
 
