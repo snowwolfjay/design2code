@@ -32,9 +32,10 @@ Allows developers to customize and extend the generated code through configurati
 
 Integrates with existing development tools and CI/CD pipelines to facilitate smooth deployment and testing.
 Supports popular frameworks and libraries (developped web-components, should when use interpreter will use vue as first one, after code generator drop framework and use original js+html+css)
-Validation and Testing:
 
-# Validates the generated code against the original models to ensure consistency.
+# Validation and Testing:
+
+Validates the generated code against the original models to ensure consistency.
 Includes automated testing scripts to verify functionality.
 
 # Key Features
@@ -60,8 +61,9 @@ The Code Generator produces backend services, database schemas, and optionally, 
 ## Integration and Deployment:
 
   Integrate generated code into existing repositories.
-## Deploy using standard CI/CD pipelines.
-  Validation and Testing:
+Deploy using standard CI/CD pipelines.
+
+## Validation and Testing:
 
 Validate the code against the models.
   Run automated tests to ensure everything works as expected.
