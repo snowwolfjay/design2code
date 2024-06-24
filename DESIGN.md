@@ -31,7 +31,7 @@ Allows developers to customize and extend the generated code through configurati
 # Integration Layer:
 
 Integrates with existing development tools and CI/CD pipelines to facilitate smooth deployment and testing.
-Supports popular frameworks and libraries (e.g., Spring Boot, Express.js, Django for backend; React, Angular, Vue for frontend).
+Supports popular frameworks and libraries (developped web-components, should when use interpreter will use vue as first one, after code generator drop framework and use original js+html+css)
 Validation and Testing:
 
 # Validates the generated code against the original models to ensure consistency.
@@ -51,9 +51,6 @@ Documentation Generation: Automatically generate technical documentation from mo
 Use a graphical tool within Design2Code to create DFDs and ERDs.
 Define processes, data flows, and entity relationships visually.
 
-## Configuration Phase:
-
-Configure specific settings for the code generation (e.g., target programming language, framework selection).
 
 ## Code Generation Phase:
 
